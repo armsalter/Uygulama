@@ -1,2 +1,3 @@
 //kodlar
-// biraz daha kodlar eklendi
+//biraz daha kodlar
+// çok daha fazla kodlar akledim
