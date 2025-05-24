@@ -1,3 +1,0 @@
-git log detaylarını öğreniyorum
-
-git log detaylarını öğrendik
