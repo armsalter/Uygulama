@@ -1,1 +1,1 @@
-bu boş bir çalışma projesidir
+ # bu boş bir çalışma projesidir
